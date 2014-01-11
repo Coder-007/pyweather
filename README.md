@@ -7,7 +7,7 @@ How to use
 ----------
 
 * *run sample.py : 
-*       ./sample.py 'city name'*
+       ./sample.py 'city name'*
 
 Author
 * Devinder Kumar
