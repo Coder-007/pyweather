@@ -16,4 +16,4 @@ else:
 	print '\t','Humidity:',city.humidity,'%'
 	print '\t',city.sky
 	print '\t','Clouds %:',city.cloud
-	print '\t','Wind speed:',city.wind.'mps'
+	print '\t','Wind speed:',city.wind ,'mps'
