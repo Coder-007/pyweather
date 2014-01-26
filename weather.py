@@ -2,7 +2,6 @@
 import requests
 import json
 import sys
-import datetime
 
  
 class weather:
