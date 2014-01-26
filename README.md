@@ -12,3 +12,8 @@ How to use
 Author
 * Devinder Kumar
 * email:devinderkumar@ieee.org
+
+Requires:
+------------
+requests --for humans
+BeautifulSoup
