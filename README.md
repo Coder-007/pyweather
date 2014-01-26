@@ -15,5 +15,5 @@ Author
 
 Requires:
 ------------
-requests --for humans
-BeautifulSoup
+*requests --for humans
+*BeautifulSoup
